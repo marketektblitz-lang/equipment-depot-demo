@@ -1,0 +1,61 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1240 >>
+stream
+BT /F1 16 Tf 50 760 Td (Equipment Depot - New hire roster) Tj ET
+BT /F1 9 Tf 50 742 Td (Exported for onboarding. One person per row.) Tj ET
+BT /F2 10 Tf 50 710 Td (Name) Tj ET
+BT /F2 10 Tf 170 710 Td (Email) Tj ET
+BT /F2 10 Tf 370 710 Td (Role) Tj ET
+BT /F2 10 Tf 480 710 Td (Terminal) Tj ET
+BT /F1 10 Tf 50 688 Td (Alicia Romero) Tj ET
+BT /F1 10 Tf 170 688 Td (alicia.romero@equipmentdepot.com) Tj ET
+BT /F1 10 Tf 370 688 Td (Driver) Tj ET
+BT /F1 10 Tf 480 688 Td (Houston) Tj ET
+BT /F1 10 Tf 50 666 Td (Ben Carter) Tj ET
+BT /F1 10 Tf 170 666 Td (ben.carter@equipmentdepot.com) Tj ET
+BT /F1 10 Tf 370 666 Td (Mechanic) Tj ET
+BT /F1 10 Tf 480 666 Td (Austin) Tj ET
+BT /F1 10 Tf 50 644 Td (Grace Liu) Tj ET
+BT /F1 10 Tf 170 644 Td (grace.liu@equipmentdepot.com) Tj ET
+BT /F1 10 Tf 370 644 Td (Terminal Operations) Tj ET
+BT /F1 10 Tf 480 644 Td (Dallas-Fort Worth) Tj ET
+BT /F1 10 Tf 50 622 Td (Marcus O'Neil) Tj ET
+BT /F1 10 Tf 170 622 Td (marcus.oneil@equipmentdepot.com) Tj ET
+BT /F1 10 Tf 370 622 Td (Salesperson) Tj ET
+BT /F1 10 Tf 480 622 Td (San Antonio) Tj ET
+BT /F1 10 Tf 50 600 Td (Hana Kim) Tj ET
+BT /F1 10 Tf 170 600 Td (hana.kim@equipmentdepot) Tj ET
+BT /F1 10 Tf 370 600 Td (Driver) Tj ET
+BT /F1 10 Tf 480 600 Td (Houston) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1688
+%%EOF
